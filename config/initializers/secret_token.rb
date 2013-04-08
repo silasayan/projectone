@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Projectone::Application.config.secret_token = '32c82e9ab5d97e9fc01691992a34bbc03a48f8abaadb419a83e11b9f2a918bc046819f8c091e6a496fd3f0ce4f18df294a77938a317adab08dc4e285dfa8a653'
+Projectone::Application.config.secret_token = '190858fda7c6860118a9454f80da85fc1440d3c8ebaea5390fc742e2aca651ac539f90fcbe376d217ab88ce989c53d825c6bdb8bfe897aa1830d319a4fc15b9a'
